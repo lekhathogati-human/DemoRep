@@ -11,6 +11,7 @@ import lombok.Data;
 @Entity
 @Table(name = "COURSE_DTLS")
 // Adding a comment just to test github commands
+// Adding another line of comment to push changes directly without synching them
 public class Course {
 
     @Id
