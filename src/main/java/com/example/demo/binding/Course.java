@@ -14,6 +14,7 @@ import lombok.Data;
 // Adding another line of comment to push changes directly without synching them - this is Commit & Push
 // Adding one another line of comment with Commit & Pull Request
 // Adding this comment in TestingBranch, not in main - later merge with main
+// This comment is added to Branch2 only
 public class Course {
 
     @Id
