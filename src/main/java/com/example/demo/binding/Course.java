@@ -10,6 +10,7 @@ import lombok.Data;
 @Data
 @Entity
 @Table(name = "COURSE_DTLS")
+// Adding a comment just to test github commands
 public class Course {
 
     @Id
